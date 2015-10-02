@@ -8,7 +8,7 @@ var arr = [10,20,30];
 function first(arr) {
   return arr[0];
 }
-first(arr);
+first(arr);  
 
 //Next problem
 
